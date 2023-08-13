@@ -1,0 +1,60 @@
+https://blog.bytebytego.com/?utm_source=site- online: true
+https://random-status-code.herokuapp.com/- online: false
+https://fullcycle.com.br/- online: true
+https://aws.amazon.com/pt/?nc2=h_lg- online: true
+https://blog.bytebytego.com/?utm_source=site- online: true
+https://random-status-code.herokuapp.com/- online: false
+https://fullcycle.com.br/- online: true
+https://aws.amazon.com/pt/?nc2=h_lg- online: true
+https://blog.bytebytego.com/?utm_source=site- online: true
+https://random-status-code.herokuapp.com/- online: false
+https://fullcycle.com.br/- online: true
+https://aws.amazon.com/pt/?nc2=h_lg- online: true
+https://blog.bytebytego.com/?utm_source=site- online: true
+https://random-status-code.herokuapp.com/- online: false
+https://fullcycle.com.br/- online: true
+https://aws.amazon.com/pt/?nc2=h_lg- online: true
+https://blog.bytebytego.com/?utm_source=site- online: true
+https://random-status-code.herokuapp.com/- online: false
+https://fullcycle.com.br/- online: true
+https://aws.amazon.com/pt/?nc2=h_lg- online: true
+12/08/2023 20:36:16 - https://blog.bytebytego.com/?utm_source=site- online: true
+12/08/2023 20:36:16 - https://random-status-code.herokuapp.com/- online: false
+12/08/2023 20:36:17 - https://fullcycle.com.br/- online: true
+12/08/2023 20:36:17 - https://aws.amazon.com/pt/?nc2=h_lg- online: true
+12/08/2023 20:36:22 - https://blog.bytebytego.com/?utm_source=site- online: true
+12/08/2023 20:36:23 - https://random-status-code.herokuapp.com/- online: false
+12/08/2023 20:36:24 - https://fullcycle.com.br/- online: true
+12/08/2023 20:36:24 - https://aws.amazon.com/pt/?nc2=h_lg- online: true
+12/08/2023 20:36:29 - https://blog.bytebytego.com/?utm_source=site- online: true
+12/08/2023 20:36:30 - https://random-status-code.herokuapp.com/- online: false
+12/08/2023 20:36:30 - https://fullcycle.com.br/- online: true
+12/08/2023 20:36:31 - https://aws.amazon.com/pt/?nc2=h_lg- online: true
+12/08/2023 20:36:36 - https://blog.bytebytego.com/?utm_source=site- online: true
+12/08/2023 20:36:37 - https://random-status-code.herokuapp.com/- online: false
+12/08/2023 20:36:37 - https://fullcycle.com.br/- online: true
+12/08/2023 20:36:37 - https://aws.amazon.com/pt/?nc2=h_lg- online: true
+12/08/2023 20:36:42 - https://blog.bytebytego.com/?utm_source=site- online: true
+12/08/2023 20:36:43 - https://random-status-code.herokuapp.com/- online: false
+12/08/2023 20:36:44 - https://fullcycle.com.br/- online: true
+12/08/2023 20:36:44 - https://aws.amazon.com/pt/?nc2=h_lg- online: true
+12/08/2023 20:39:17 - https://blog.bytebytego.com/?utm_source=site- online: true
+12/08/2023 20:39:18 - https://random-status-code.herokuapp.com/- online: false
+12/08/2023 20:39:18 - https://fullcycle.com.br/- online: true
+12/08/2023 20:39:19 - https://aws.amazon.com/pt/?nc2=h_lg- online: true
+12/08/2023 20:39:24 - https://blog.bytebytego.com/?utm_source=site- online: true
+12/08/2023 20:39:25 - https://random-status-code.herokuapp.com/- online: false
+12/08/2023 20:39:25 - https://fullcycle.com.br/- online: true
+12/08/2023 20:39:25 - https://aws.amazon.com/pt/?nc2=h_lg- online: true
+12/08/2023 20:39:30 - https://blog.bytebytego.com/?utm_source=site- online: true
+12/08/2023 20:39:31 - https://random-status-code.herokuapp.com/- online: false
+12/08/2023 20:39:32 - https://fullcycle.com.br/- online: true
+12/08/2023 20:39:32 - https://aws.amazon.com/pt/?nc2=h_lg- online: true
+12/08/2023 20:39:37 - https://blog.bytebytego.com/?utm_source=site- online: true
+12/08/2023 20:39:38 - https://random-status-code.herokuapp.com/- online: false
+12/08/2023 20:39:39 - https://fullcycle.com.br/- online: true
+12/08/2023 20:39:39 - https://aws.amazon.com/pt/?nc2=h_lg- online: true
+12/08/2023 20:39:44 - https://blog.bytebytego.com/?utm_source=site- online: true
+12/08/2023 20:39:44 - https://random-status-code.herokuapp.com/- online: false
+12/08/2023 20:39:45 - https://fullcycle.com.br/- online: true
+12/08/2023 20:39:45 - https://aws.amazon.com/pt/?nc2=h_lg- online: true
